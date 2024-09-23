@@ -1,19 +1,22 @@
-# 🎈 Blank app template
+# Interactive Math Solver
 
-A simple Streamlit app template for you to modify!
+This project is an Interactive Math Solver app developed using Streamlit, SymPy, and Matplotlib. The app allows users to solve quadratic equations, compute derivatives, and evaluate integrals, all with visualizations.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Project Structure
 
-### How to run it on your own machine
+- app.py: The main application script.
+- requirements.txt: A file listing all the dependencies needed to run the application.
+- Instructions.txt: Instructions for setting up and running the project.
 
-1. Install the requirements
+### Acknowledgements
+- Streamlit
+- SymPy
+- Matplotlib
+- NumPy
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+### The project requires the following Python packages:
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+- streamlit
+- sympy
+- matplotlib
+- numpy
