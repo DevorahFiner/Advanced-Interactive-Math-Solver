@@ -1,0 +1,11 @@
+python -m venv venv
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+pip install streamlit
+pip install sympy
+pip install matplotlib
+pip install numpy
+
+streamlit run app.py
